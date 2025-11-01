@@ -1,6 +1,0 @@
-{
-  "Name": "Extraçao",
-  "ProjectType": "Process",
-  "Description": "Extração dos dados",
-  "MainFile": "Main.xaml"
-}
